@@ -15,10 +15,11 @@ const Featured = () => {
         <div className={styles.textContainer}>
           <h1 className={styles.postTitle}>Lorem ipsum dolor sit amet alim consectetur adipisicing elit.</h1>
           <p className={styles.postDesc}>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-            Cupiditate, quam nisi magni ea laborum inventore voluptatum
-            laudantium repellat ducimus unde aspernatur fuga. Quo, accusantium
-            quisquam! Harum unde sit culpa debitis.
+          Nestled in the heart of Japan, Kyoto is a city
+           that effortlessly blends ancient traditions with modern wonders. 
+           From its stunning temples to bustling markets, every corner of this city
+            tells a story. Join me on a journey through the enchanting streets of Kyoto,
+             where history comes alive and every turn unveils a new adventure.
           </p>
           <button className={styles.button}>Read More</button>
         </div>
